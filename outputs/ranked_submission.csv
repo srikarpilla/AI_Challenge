@@ -1,0 +1,101 @@
+rank,candidate_id,score,name,current_title,yoe,location,country,must_have_score,retrieval_evid,vectordb_evid,eval_evid,python_evid,title_role_fit,title_category,ml_years,nice_score,exp_band_score,location_score,notice_score,availability_score,consulting_only,narrow_cv_speech,langchain_only,pure_research,open_to_work,notice_days,github_score,recruiter_resp_rate
+1,CAND_0052328,98.2613,Vikram Banerjee,Recommendation Systems Engineer,6.5,"Pune, Maharashtra",India,0.8436,0.85,0.8285,0.85,0.85,1.0,ai_ml_core,5.87,0.6922,1.0,1.0,1.0,0.6926,0,0,0,0,1,30,77.6,0.79
+2,CAND_0027691,97.3275,Ayaan Goyal,NLP Engineer,6.5,"Pune, Maharashtra",India,0.8384,0.85,0.8965,0.7225,0.85,1.0,ai_ml_core,5.33,0.6733,1.0,1.0,1.0,0.6551,0,0,0,0,1,15,58.5,0.68
+3,CAND_0037566,95.9054,Ritu Nair,Machine Learning Engineer,6.9,"Bangalore, Karnataka",India,0.8431,0.85,0.912,0.7225,0.85,1.0,ai_ml_core,6.03,0.681,1.0,0.8,1.0,0.6768,0,0,0,0,1,15,73.4,0.5
+4,CAND_0011687,93.9753,Shreya Tiwari,Senior NLP Engineer,7.8,"Indore, Madhya Pradesh",India,0.8326,0.85,0.85,0.7225,0.8905,1.0,ai_ml_core,6.46,0.6883,1.0,0.4,1.0,0.804,0,0,0,0,1,15,76.3,0.89
+5,CAND_0041610,93.7715,Anil Subramanian,Recommendation Systems Engineer,6.7,"Indore, Madhya Pradesh",India,0.85,0.85,0.85,0.85,0.85,1.0,ai_ml_core,5.35,0.5763,1.0,0.55,1.0,0.732,0,0,0,0,1,30,52.1,0.52
+6,CAND_0083879,93.3531,Mira Reddy,Machine Learning Engineer,7.1,"Noida, Uttar Pradesh",India,0.7216,0.85,0.7225,0.399,0.85,1.0,ai_ml_core,5.81,0.4854,1.0,1.0,1.0,0.6795,0,0,0,0,1,30,-1,0.47
+7,CAND_0068932,93.0433,Anil Mukherjee,ML Engineer,5.2,"Noida, Uttar Pradesh",India,0.6819,0.7225,0.7225,0.6895,0.5525,1.0,ai_ml_core,5.06,0.3762,1.0,1.0,1.0,0.7667,0,0,0,0,1,30,70.5,0.82
+8,CAND_0064326,92.539,Nisha Pillai,Search Engineer,7.6,"Gurgaon, Haryana",India,0.8264,0.85,0.85,0.7225,0.8595,1.0,ai_ml_core,5.68,0.651,1.0,0.8,0.65,0.8304,0,0,0,0,1,45,61.4,0.94
+9,CAND_0005509,91.8805,Arnav Khanna,Data Scientist,6.0,"Noida, Uttar Pradesh",India,0.6375,0.5525,0.7225,0.7225,0.5525,1.0,ai_ml_core,4.67,0.5743,1.0,1.0,1.0,0.6778,0,0,0,0,1,30,74.2,0.4
+10,CAND_0036184,91.6848,Riya Chopra,Recommendation Systems Engineer,6.0,"Trivandrum, Kerala",India,0.7677,0.85,0.774,0.5525,0.85,1.0,ai_ml_core,5.63,0.6069,1.0,0.4,1.0,0.8028,0,0,0,0,1,30,43.2,0.9
+11,CAND_0046525,91.0341,Tanvi Mukherjee,Senior Machine Learning Engineer,6.1,"Pune, Maharashtra",India,0.8042,0.9805,0.85,0.5525,0.7225,1.0,ai_ml_core,5.6,0.2918,1.0,1.0,0.65,0.8183,0,0,0,0,1,60,36.7,0.88
+12,CAND_0033179,89.9812,Yash Subramanian,AI Research Engineer,6.9,"Ahmedabad, Gujarat",India,0.7034,0.7225,0.7185,0.5525,0.803,1.0,ai_ml_core,5.98,0.4831,1.0,0.55,1.0,0.7682,0,0,0,0,1,30,-1,0.84
+13,CAND_0008295,89.716,Om Mehta,AI Research Engineer,6.5,"Pune, Maharashtra",India,0.6369,0.7205,0.5525,0.5525,0.7225,1.0,ai_ml_core,5.84,0.6363,1.0,1.0,0.65,0.8303,0,0,0,0,1,45,50.7,0.89
+14,CAND_0096142,89.5025,Pranav Sethi,Applied ML Engineer,5.0,"Hyderabad, Telangana",India,0.8425,0.85,0.91,0.7225,0.85,1.0,ai_ml_core,4.94,0.6211,1.0,0.8,0.2,0.7819,0,0,0,0,1,120,80.5,0.84
+15,CAND_0064888,89.33,Riya Kumar,ML Engineer,5.8,"Vizag, Andhra Pradesh",India,0.6918,0.5525,0.7225,0.7225,0.824,1.0,ai_ml_core,4.61,0.4369,1.0,0.55,1.0,0.7681,0,0,0,0,1,30,17.4,0.92
+16,CAND_0041669,89.1103,Aisha Banerjee,Recommendation Systems Engineer,8.0,"Noida, Uttar Pradesh",India,0.6636,0.85,0.8805,0.7225,0.0,1.0,ai_ml_core,6.52,0.6747,1.0,1.0,0.65,0.7393,0,0,0,0,1,60,70.9,0.77
+17,CAND_0027801,88.4738,Anil Mittal,NLP Engineer,7.4,"Hyderabad, Telangana",India,0.8673,0.85,0.9075,0.85,0.85,1.0,ai_ml_core,5.6,0.6558,1.0,0.8,0.2,0.6706,0,0,0,0,1,120,63.3,0.65
+18,CAND_0048558,88.4569,Aisha Joshi,Data Scientist,6.7,"Noida, Uttar Pradesh",India,0.527,0.5525,0.7225,0.7225,0.0,1.0,ai_ml_core,5.43,0.3105,1.0,1.0,1.0,0.7576,0,0,0,0,1,30,-1,0.8
+19,CAND_0050876,88.417,Vivaan Shah,Applied ML Engineer,6.0,"Kolkata, West Bengal",India,0.8245,0.85,0.85,0.7225,0.85,1.0,ai_ml_core,5.24,0.8233,1.0,0.4,0.4,0.8179,0,0,0,0,1,90,86.1,0.67
+20,CAND_0015967,88.269,Advik Sethi,Senior Software Engineer (ML),5.4,"Hyderabad, Telangana",India,0.6205,0.5525,0.5525,0.7225,0.7225,1.0,ai_ml_core,5.0,0.4586,1.0,0.8,1.0,0.6602,0,0,0,0,1,30,26.1,0.45
+21,CAND_0053695,88.2572,Sanjay Sharma,Recommendation Systems Engineer,5.8,"Bhubaneswar, Odisha",India,0.8245,0.85,0.85,0.7225,0.85,1.0,ai_ml_core,5.02,0.4106,1.0,0.4,1.0,0.6123,0,0,0,0,1,15,67.6,0.6
+22,CAND_0016163,88.0407,Suresh Shah,Applied ML Engineer,6.7,"Gurgaon, Haryana",India,0.7797,0.7225,0.9415,0.5525,0.85,1.0,ai_ml_core,5.6,0.8009,1.0,0.8,0.2,0.7074,0,0,0,0,1,120,95.0,0.72
+23,CAND_0053605,87.9797,Myra Mishra,Senior Software Engineer (ML),6.9,"Noida, Uttar Pradesh",India,0.4641,0.7225,0.8245,0.0,0.0,1.0,ai_ml_core,5.63,0.2982,1.0,1.0,1.0,0.8262,0,0,0,0,1,30,-1,0.88
+24,CAND_0069905,87.8589,Nisha Bansal,Applied ML Engineer,6.6,"Bhubaneswar, Odisha",India,0.85,0.85,0.85,0.85,0.85,1.0,ai_ml_core,5.44,0.6118,1.0,0.55,0.4,0.7565,0,0,0,0,1,90,44.8,0.78
+25,CAND_0010685,87.8417,Sunil Mishra,NLP Engineer,6.7,"Kolkata, West Bengal",India,0.8245,0.85,0.85,0.7225,0.85,1.0,ai_ml_core,5.18,0.2,1.0,0.4,1.0,0.6808,0,0,0,0,1,30,-1,0.83
+26,CAND_0078002,87.8175,Reyansh Sharma,Machine Learning Engineer,6.3,"Coimbatore, Tamil Nadu",India,0.849,0.85,0.901,0.7685,0.85,1.0,ai_ml_core,5.34,0.624,1.0,0.4,0.65,0.7564,0,0,0,0,1,60,50.6,0.86
+27,CAND_0000031,87.6085,Ela Singh,Recommendation Systems Engineer,6.0,"Hyderabad, Telangana",India,0.79,0.85,0.768,0.8005,0.7225,1.0,ai_ml_core,4.8,0.2815,1.0,0.8,0.65,0.7537,0,0,0,0,1,60,32.6,0.91
+28,CAND_0071939,87.5775,Jay Nair,Data Scientist,6.4,"Pune, Maharashtra",India,0.5221,0.6495,0.7225,0.5525,0.0,1.0,ai_ml_core,5.33,0.4927,1.0,1.0,1.0,0.6349,0,0,0,0,1,30,-1,0.67
+29,CAND_0069638,87.556,Diya Gupta,Computer Vision Engineer,6.2,"Chennai, Tamil Nadu",India,0.6789,0.6905,0.7225,0.5525,0.7225,1.0,ai_ml_core,5.28,0.5272,1.0,0.55,1.0,0.6463,0,0,0,0,1,30,23.7,0.64
+30,CAND_0008239,87.5361,Advik Iyer,AI Engineer,4.0,"Jaipur, Rajasthan",India,0.8245,0.85,0.85,0.7225,0.85,1.0,ai_ml_core,4.6,0.3944,0.8,0.55,1.0,0.594,0,0,0,0,1,15,56.6,0.73
+31,CAND_0040178,87.5188,Anika Bhatia,ML Engineer,5.0,"Pune, Maharashtra",India,0.7225,0.7225,0.7225,0.7225,0.7225,1.0,ai_ml_core,4.61,0.5871,1.0,1.0,0.65,0.5992,0,0,0,0,1,60,19.7,0.55
+32,CAND_0043860,87.4292,Pranav Sharma,Junior ML Engineer,6.1,"Bhubaneswar, Odisha",India,0.6395,0.8425,0.5525,0.5525,0.5525,1.0,ai_ml_core,5.64,0.2,1.0,0.55,1.0,0.8389,0,0,0,0,1,30,-1,0.81
+33,CAND_0062247,87.3811,Saanvi Trivedi,AI Engineer,7.3,"Kochi, Kerala",India,0.6545,0.85,0.85,0.7225,0.0,1.0,ai_ml_core,6.24,0.3846,1.0,0.55,1.0,0.7338,0,0,0,0,1,30,52.7,0.78
+34,CAND_0098846,87.1915,Shreya Saxena,AI Engineer,7.6,"Indore, Madhya Pradesh",India,0.765,0.85,0.85,0.5525,0.7225,1.0,ai_ml_core,5.52,0.7683,1.0,0.55,0.65,0.6927,0,0,0,0,1,45,86.2,0.62
+35,CAND_0025640,86.7805,Anjali Kapoor,AI Research Engineer,5.6,"Jaipur, Rajasthan",India,0.608,0.695,0.7995,0.5525,0.2456,1.0,ai_ml_core,4.91,0.5039,1.0,0.4,1.0,0.7988,0,0,0,0,1,30,-1,0.87
+36,CAND_0092255,86.7792,Jay Chatterjee,ML Engineer,5.2,"Noida, Uttar Pradesh",India,0.7225,0.7225,0.7225,0.7225,0.7225,0.9919,ai_ml_core,4.46,0.3948,1.0,1.0,0.65,0.6559,0,0,0,0,1,60,77.9,0.38
+37,CAND_0003841,86.7783,Anjali Krishnan,ML Engineer,5.0,"Pune, Maharashtra",India,0.5907,0.7225,0.765,0.7225,0.0,1.0,ai_ml_core,4.92,0.2601,1.0,1.0,1.0,0.5926,0,0,0,0,1,30,26.7,0.71
+38,CAND_0055905,86.7577,Anika Rao,Senior Machine Learning Engineer,8.1,London,UK,0.6995,0.85,0.915,0.0,0.85,1.0,ai_ml_core,4.52,0.4529,1.0,0.15,1.0,0.8289,0,0,0,0,1,30,-1,0.87
+39,CAND_0030784,86.7434,Ved Mukherjee,Data Scientist,4.4,"Delhi, Delhi",India,0.6809,0.7225,0.5525,0.771,0.721,1.0,ai_ml_core,4.6,0.6725,0.88,0.8,0.4,0.8266,0,0,0,0,1,90,31.7,0.9
+40,CAND_0017960,86.7308,Pari Shah,Recommendation Systems Engineer,7.7,"Bangalore, Karnataka",India,0.6545,0.85,0.85,0.0,0.7225,1.0,ai_ml_core,6.3,0.7285,1.0,0.8,0.65,0.7012,0,0,0,0,1,60,92.4,0.72
+41,CAND_0093912,86.7071,Advik Sethi,Senior Data Scientist,5.3,"Chandigarh, Chandigarh",India,0.6626,0.85,0.877,0.7225,0.0,1.0,ai_ml_core,4.68,0.4037,1.0,0.4,1.0,0.7599,0,0,0,0,1,30,81.5,0.66
+42,CAND_0065878,86.659,Suresh Kapoor,Senior Data Scientist,7.8,"Trivandrum, Kerala",India,0.7643,0.7225,0.775,0.7225,0.853,1.0,ai_ml_core,5.63,0.4975,1.0,0.4,1.0,0.5699,0,0,0,0,1,15,-1,0.48
+43,CAND_0010770,86.6171,Ved Mittal,Recommendation Systems Engineer,15.2,"Kolkata, West Bengal",India,0.85,0.85,0.85,0.85,0.85,1.0,ai_ml_core,5.96,0.2,0.4833,0.55,1.0,0.7485,0,0,0,0,1,30,-1,0.73
+44,CAND_0067866,86.5604,Kiara Sethi,Senior Software Engineer (ML),6.4,"Noida, Uttar Pradesh",India,0.578,0.7225,0.7225,0.7225,0.0,1.0,ai_ml_core,5.33,0.5221,1.0,1.0,0.65,0.7789,0,0,0,0,1,45,27.7,0.79
+45,CAND_0004402,86.5034,Priya Malhotra,AI Research Engineer,6.0,"Delhi, Delhi",India,0.6459,0.5525,0.5525,0.7225,0.8495,1.0,ai_ml_core,5.37,0.5496,1.0,0.8,0.65,0.7784,0,0,0,0,1,60,-1,0.83
+46,CAND_0066999,86.3132,Riya Dalal,Recommendation Systems Engineer,5.9,"Delhi, Delhi",India,0.6285,0.85,0.8765,0.5525,0.0,1.0,ai_ml_core,5.52,0.236,1.0,0.8,1.0,0.635,0,0,0,0,1,15,94.4,0.63
+47,CAND_0097176,86.2924,Advik Mehta,ML Engineer,5.9,"Gurgaon, Haryana",India,0.53,0.847,0.4604,0.0,0.689,1.0,ai_ml_core,5.13,0.3135,1.0,0.8,1.0,0.7414,0,0,0,0,1,30,45.4,0.76
+48,CAND_0081852,86.0422,Krishna Subramanian,Senior Data Scientist,5.9,"Delhi, Delhi",India,0.6545,0.85,0.85,0.7225,0.0,1.0,ai_ml_core,5.59,0.7172,1.0,0.8,0.65,0.6655,0,0,0,0,1,45,87.9,0.44
+49,CAND_0074486,85.9932,Dev Mehta,Computer Vision Engineer,5.5,"Noida, Uttar Pradesh",India,0.7304,0.7225,0.749,0.7225,0.7225,1.0,ai_ml_core,5.02,0.3708,1.0,1.0,1.0,0.5806,0,0,0,0,0,30,68.3,0.76
+50,CAND_0073504,85.9387,Pranav Pillai,Junior ML Engineer,6.6,"Gurgaon, Haryana",India,0.7147,0.7225,0.6965,0.7225,0.7225,1.0,ai_ml_core,5.12,0.4338,1.0,0.8,0.65,0.6968,0,0,0,0,1,60,61.6,0.78
+51,CAND_0076163,85.7912,Nikhil Mittal,NLP Engineer,6.9,"Chandigarh, Chandigarh",India,0.8207,0.884,0.85,0.78,0.7225,1.0,ai_ml_core,6.0,0.4115,1.0,0.4,0.65,0.7705,0,0,0,0,1,60,84.6,0.84
+52,CAND_0028793,85.6593,Myra Dutta,Search Engineer,7.2,"Trivandrum, Kerala",India,0.7888,0.9435,0.7225,0.7225,0.7225,1.0,ai_ml_core,5.83,0.857,1.0,0.55,0.2,0.6699,0,0,0,0,1,120,83.1,0.57
+53,CAND_0054546,85.6317,Pooja Ghosh,AI Research Engineer,4.9,"Pune, Maharashtra",India,0.544,0.7225,0.7225,0.5525,0.0,1.0,ai_ml_core,5.43,0.6409,0.98,1.0,0.4,0.8092,0,0,0,0,1,90,75.2,0.92
+54,CAND_0007412,85.5042,Pranav Shah,Applied ML Engineer,7.4,"Noida, Uttar Pradesh",India,0.68,0.85,0.85,0.0,0.85,1.0,ai_ml_core,5.54,0.4005,1.0,1.0,0.2,0.7638,0,0,0,0,1,120,36.0,0.76
+55,CAND_0043312,85.3888,Amit Ghosh,AI Research Engineer,4.2,"Noida, Uttar Pradesh",India,0.6691,0.7225,0.8625,0.7225,0.2456,1.0,ai_ml_core,4.77,0.6379,0.84,1.0,1.0,0.5956,0,0,0,0,0,30,74.0,0.73
+56,CAND_0005311,85.1795,Naina Tiwari,AI Research Engineer,5.7,"Mumbai, Maharashtra",India,0.5015,0.5525,0.5525,0.85,0.0,1.0,ai_ml_core,5.25,0.6284,1.0,0.8,1.0,0.5814,0,0,0,0,1,30,70.2,0.29
+57,CAND_0014234,85.1523,Ritu Bose,Junior ML Engineer,5.4,"Indore, Madhya Pradesh",India,0.6937,0.8365,0.739,0.5525,0.5525,1.0,ai_ml_core,4.66,0.5039,1.0,0.55,1.0,0.4988,0,0,0,0,1,30,-1,0.49
+58,CAND_0081480,85.1251,Sneha Hegde,Computer Vision Engineer,5.6,"Noida, Uttar Pradesh",India,0.493,0.5525,0.7225,0.0,0.5525,1.0,ai_ml_core,5.27,0.6969,1.0,1.0,0.65,0.7399,0,0,0,0,1,60,61.1,0.85
+59,CAND_0037160,85.0005,Riya Chatterjee,Data Scientist,6.0,"Mumbai, Maharashtra",India,0.5256,0.7225,0.7225,0.4604,0.0,1.0,ai_ml_core,5.1,0.27,1.0,0.8,1.0,0.6934,0,0,0,0,1,30,28.0,0.74
+60,CAND_0073007,84.9577,Ayaan Saxena,AI Specialist,5.8,"Bangalore, Karnataka",India,0.6495,0.654,0.7225,0.7225,0.4604,1.0,ai_ml_core,5.53,0.3663,1.0,0.8,0.65,0.7622,0,0,0,0,1,60,66.5,0.83
+61,CAND_0046459,84.9312,Rohan Patel,AI Research Engineer,4.5,"Pune, Maharashtra",India,0.578,0.7225,0.7225,0.0,0.7225,0.9271,ai_ml_core,4.17,0.2072,0.9,1.0,1.0,0.7249,0,0,0,0,1,30,25.1,0.84
+62,CAND_0017093,84.887,Vikram Desai,ML Engineer,5.9,"Hyderabad, Telangana",India,0.4994,0.7225,0.4604,0.7225,0.0,1.0,ai_ml_core,4.96,0.4105,1.0,0.8,1.0,0.6632,0,0,0,0,1,30,84.2,0.58
+63,CAND_0018888,84.8784,Shreya Trivedi,AI Research Engineer,6.5,"Noida, Uttar Pradesh",India,0.578,0.7225,0.7225,0.7225,0.0,1.0,ai_ml_core,5.32,0.473,1.0,1.0,1.0,0.6881,0,0,0,0,0,30,51.4,0.55
+64,CAND_0039383,84.8467,Riya Malhotra,Applied ML Engineer,7.1,"Gurgaon, Haryana",India,0.6205,0.85,0.85,0.5525,0.0,1.0,ai_ml_core,5.71,0.8486,1.0,0.8,0.4,0.6645,0,0,0,0,1,90,86.4,0.61
+65,CAND_0065430,84.8355,Dev Singh,ML Engineer,4.4,"Mumbai, Maharashtra",India,0.6829,0.7225,0.7225,0.6945,0.5525,1.0,ai_ml_core,4.65,0.4855,0.88,0.8,0.65,0.7149,0,0,0,0,1,45,-1,0.71
+66,CAND_0092568,84.8322,Yash Bhatia,AI Specialist,5.7,"Noida, Uttar Pradesh",India,0.7225,0.7225,0.7225,0.7225,0.7225,1.0,ai_ml_core,4.82,0.299,1.0,1.0,0.65,0.5669,0,0,0,0,1,60,39.6,0.39
+67,CAND_0009691,84.7637,Ira Subramanian,Applied ML Engineer,6.2,"Indore, Madhya Pradesh",India,0.7607,0.7225,0.85,0.7225,0.7225,1.0,ai_ml_core,5.17,0.749,1.0,0.55,0.2,0.7047,0,0,0,0,1,120,67.8,0.64
+68,CAND_0007596,84.6187,Shaurya Gupta,Junior ML Engineer,4.4,"Delhi, Delhi",India,0.6264,0.5525,0.6545,0.6325,0.689,1.0,ai_ml_core,4.63,0.3934,0.88,0.8,0.65,0.8236,0,0,0,0,1,45,-1,0.86
+69,CAND_0083852,84.565,Reyansh Banerjee,Data Scientist,6.0,"Ahmedabad, Gujarat",India,0.6545,0.7225,0.7225,0.5525,0.5525,1.0,ai_ml_core,5.4,0.7132,1.0,0.55,0.4,0.7989,0,0,0,0,1,90,70.8,0.85
+70,CAND_0049540,84.5053,Pranav Iyer,ML Engineer,6.8,"Trivandrum, Kerala",India,0.6731,0.7225,0.7225,0.707,0.4911,1.0,ai_ml_core,5.32,0.5634,1.0,0.4,0.65,0.8404,0,0,0,0,1,60,-1,0.86
+71,CAND_0018094,84.2977,Pranav Mehta,ML Engineer,5.2,"Bangalore, Karnataka",India,0.5857,0.7225,0.711,0.7785,0.0,1.0,ai_ml_core,4.93,0.5973,1.0,0.8,0.65,0.7139,0,0,0,0,1,45,10.7,0.69
+72,CAND_0073982,84.237,Divya Chowdary,Data Scientist,7.0,"Delhi, Delhi",India,0.6602,0.7415,0.7225,0.5525,0.5525,1.0,ai_ml_core,5.26,0.4034,1.0,0.8,0.65,0.6882,0,0,0,0,1,60,16.0,0.65
+73,CAND_0060054,84.1041,Aisha Kapoor,AI Engineer,6.4,"Jaipur, Rajasthan",India,0.8444,0.85,0.85,0.7225,0.9495,1.0,ai_ml_core,5.28,0.2,1.0,0.55,1.0,0.6311,0,0,0,0,0,15,-1,0.86
+74,CAND_0046353,84.0829,Sneha Tiwari,ML Engineer,6.4,"Gurgaon, Haryana",India,0.7225,0.7225,0.7225,0.7225,0.7225,1.0,ai_ml_core,5.26,0.3918,1.0,0.8,0.2,0.7352,0,0,0,0,1,120,76.7,0.73
+75,CAND_0073883,84.0496,Zara Sen,AI Specialist,5.3,"Chandigarh, Chandigarh",India,0.6375,0.7225,0.5525,0.7225,0.5525,1.0,ai_ml_core,4.69,0.6655,1.0,0.55,0.4,0.8138,0,0,0,0,1,90,65.6,0.92
+76,CAND_0082262,84.0078,Ved Dalal,Senior Software Engineer (ML),5.9,"Bangalore, Karnataka",India,0.527,0.5525,0.7225,0.0,0.7225,1.0,ai_ml_core,5.01,0.2529,1.0,0.8,1.0,0.6425,0,0,0,0,1,30,-1,0.64
+77,CAND_0062561,83.8401,Suresh Bose,ML Engineer,5.9,"Bhubaneswar, Odisha",India,0.6181,0.6925,0.7225,0.7225,0.2456,1.0,ai_ml_core,5.17,0.4435,1.0,0.4,1.0,0.6436,0,0,0,0,1,30,53.2,0.36
+78,CAND_0051936,83.8371,Neha Hegde,AI Research Engineer,3.9,"Ahmedabad, Gujarat",India,0.5792,0.7225,0.7225,0.0,0.7285,0.9852,ai_ml_core,4.43,0.4863,0.78,0.4,1.0,0.8202,0,0,0,0,1,30,-1,0.81
+79,CAND_0035879,83.8306,Pari Patel,AI Research Engineer,4.5,"Noida, Uttar Pradesh",India,0.6401,0.5525,0.5525,0.8205,0.7225,1.0,ai_ml_core,4.52,0.4103,0.9,1.0,0.2,0.7682,0,0,0,0,1,120,84.1,0.82
+80,CAND_0093763,83.801,Krishna Nair,Senior Software Engineer (ML),5.0,"Noida, Uttar Pradesh",India,0.7171,0.7225,0.7045,0.7225,0.7225,0.9286,ai_ml_core,4.18,0.0614,1.0,1.0,0.4,0.8387,0,0,0,0,1,90,-1,0.92
+81,CAND_0015528,83.7911,Aisha Reddy,Applied ML Engineer,7.4,"Coimbatore, Tamil Nadu",India,0.8036,0.85,0.85,0.7455,0.7225,1.0,ai_ml_core,6.13,0.5869,1.0,0.4,1.0,0.5861,0,0,0,0,0,30,50.6,0.53
+82,CAND_0011263,83.6964,Aarav Malhotra,ML Engineer,5.1,"Pune, Maharashtra",India,0.5865,0.5525,0.5525,0.7225,0.5525,1.0,ai_ml_core,4.64,0.3445,1.0,1.0,0.65,0.6755,0,0,0,0,1,60,-1,0.42
+83,CAND_0071974,83.6281,Sai Verma,Senior AI Engineer,7.8,"Vizag, Andhra Pradesh",India,0.6722,0.85,0.85,0.811,0.0,1.0,ai_ml_core,4.85,0.7075,1.0,0.4,0.65,0.727,0,0,0,0,1,45,82.8,0.76
+84,CAND_0066791,83.6087,Anil Vora,Senior Software Engineer (ML),5.6,"Pune, Maharashtra",India,0.6591,0.7945,0.5525,0.7225,0.5525,1.0,ai_ml_core,5.26,0.5479,1.0,1.0,0.2,0.6176,0,0,0,0,1,120,14.6,0.42
+85,CAND_0021410,83.5886,Ela Vora,Junior ML Engineer,4.0,"Hyderabad, Telangana",India,0.7153,0.814,0.7225,0.719,0.5525,0.9736,ai_ml_core,4.38,0.2,0.8,0.8,0.65,0.8126,0,0,0,0,1,60,-1,0.8
+86,CAND_0058688,83.5493,Anjali Kapoor,AI Engineer,6.7,Berlin,Germany,0.6767,0.85,0.85,0.0,0.8335,1.0,ai_ml_core,5.89,0.3506,1.0,0.15,1.0,0.7241,0,0,0,0,1,15,39.1,0.74
+87,CAND_0020350,83.3594,Tanya Reddy,AI Engineer,5.8,"Jaipur, Rajasthan",India,0.5823,0.85,0.7225,0.5525,0.0,1.0,ai_ml_core,5.41,0.5088,1.0,0.4,1.0,0.6392,0,0,0,0,1,30,-1,0.58
+88,CAND_0059017,83.2892,Pooja Mishra,AI Research Engineer,6.8,"Ahmedabad, Gujarat",India,0.7489,0.7065,0.7705,0.7225,0.8065,1.0,ai_ml_core,5.94,0.5839,1.0,0.55,0.4,0.6446,0,0,0,0,1,90,76.2,0.75
+89,CAND_0025882,83.2821,Pooja Arora,Senior Software Engineer (ML),5.6,"Chennai, Tamil Nadu",India,0.6054,0.5218,0.7225,0.792,0.3683,1.0,ai_ml_core,4.94,0.6501,1.0,0.55,0.65,0.7434,0,0,0,0,1,45,34.7,0.79
+90,CAND_0076587,83.2317,Pranav Iyer,AI Specialist,4.9,"Chandigarh, Chandigarh",India,0.6885,0.7225,0.7225,0.7225,0.5525,1.0,ai_ml_core,4.79,0.2,0.98,0.4,1.0,0.6244,0,0,0,0,1,30,-1,0.46
+91,CAND_0080589,83.2184,Vivaan Gupta,Computer Vision Engineer,5.7,"Mumbai, Maharashtra",India,0.652,0.7225,0.5525,0.795,0.5525,1.0,ai_ml_core,5.35,0.5974,1.0,0.8,0.4,0.6331,0,0,0,0,1,90,-1,0.44
+92,CAND_0018701,83.101,Advik Khanna,Junior ML Engineer,6.0,"Delhi, Delhi",India,0.5901,0.839,0.6985,0.6445,0.0,1.0,ai_ml_core,5.42,0.4236,1.0,0.8,0.65,0.713,0,0,0,0,1,60,12.1,0.71
+93,CAND_0015057,83.0977,Anil Rao,ML Engineer,4.6,"Pune, Maharashtra",India,0.5457,0.7755,0.5525,0.7365,0.0,1.0,ai_ml_core,4.58,0.4312,0.92,1.0,0.4,0.7791,0,0,0,0,1,90,-1,0.85
+94,CAND_0046064,83.023,Saanvi Naidu,Senior NLP Engineer,8.9,"Coimbatore, Tamil Nadu",India,0.6741,0.85,0.85,0.0,0.8205,0.8383,ai_ml_core,3.77,0.6658,1.0,0.4,1.0,0.7428,0,0,0,0,1,30,67.3,0.78
+95,CAND_0073620,82.972,Ira Goyal,AI Research Engineer,4.4,"Noida, Uttar Pradesh",India,0.7318,0.727,0.7225,0.7225,0.7625,0.975,ai_ml_core,4.39,0.2681,0.88,1.0,0.4,0.6455,0,0,0,0,1,90,17.3,0.63
+96,CAND_0065786,82.9396,Advaith Pandey,AI Specialist,4.9,"Indore, Madhya Pradesh",India,0.6817,0.7225,0.7225,0.6885,0.5525,0.9306,ai_ml_core,4.19,0.7146,0.98,0.4,0.65,0.8185,0,0,0,0,1,45,70.7,0.89
+97,CAND_0027723,82.935,Kabir Agarwal,ML Engineer,4.2,"Ahmedabad, Gujarat",India,0.7711,0.843,0.7225,0.785,0.7225,0.942,ai_ml_core,4.24,0.2933,0.84,0.55,1.0,0.5496,0,0,0,0,1,30,37.3,0.38
+98,CAND_0007052,82.8573,Nisha Bansal,ML Engineer,6.5,"Pune, Maharashtra",India,0.578,0.7225,0.7225,0.7225,0.0,1.0,ai_ml_core,5.73,0.3105,1.0,1.0,0.65,0.6531,0,0,0,0,1,60,-1,0.85
+99,CAND_0048219,82.8555,Aadhya Chopra,Computer Vision Engineer,5.4,"Mumbai, Maharashtra",India,0.6439,0.5525,0.5525,0.756,0.806,1.0,ai_ml_core,4.7,0.5036,1.0,0.8,1.0,0.5709,0,0,0,0,0,30,44.1,0.26
+100,CAND_0016659,82.8465,Priya Dalal,ML Engineer,4.4,"Coimbatore, Tamil Nadu",India,0.6815,0.8125,0.773,0.3069,0.7225,0.9937,ai_ml_core,4.47,0.5374,0.88,0.4,0.65,0.8145,0,0,0,0,1,45,13.4,0.89

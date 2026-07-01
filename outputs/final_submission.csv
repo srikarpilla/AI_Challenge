@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0052328,1,98.2613,"Recommendation Systems Engineer (6.5yr); 5.9yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Pune, Maharashtra); notice 30d"
+CAND_0027691,2,97.3275,"NLP Engineer (6.5yr); 5.3yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Pune, Maharashtra); notice 15d"
+CAND_0037566,3,95.9054,Machine Learning Engineer (6.9yr); 6.0yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 15d
+CAND_0011687,4,93.9753,Senior NLP Engineer (7.8yr); 6.5yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 15d
+CAND_0041610,5,93.7715,Recommendation Systems Engineer (6.7yr); 5.3yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0083879,6,93.3531,"Machine Learning Engineer (7.1yr); 5.8yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh); notice 30d"
+CAND_0068932,7,93.0433,"ML Engineer (5.2yr); 5.1yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh); notice 30d"
+CAND_0064326,8,92.5390,Search Engineer (7.6yr); 5.7yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0005509,9,91.8805,"Data Scientist (6.0yr); 4.7yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh); notice 30d"
+CAND_0036184,10,91.6848,Recommendation Systems Engineer (6.0yr); 5.6yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0046525,11,91.0341,"Senior Machine Learning Engineer (6.1yr); 5.6yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Pune, Maharashtra)"
+CAND_0033179,12,89.9812,AI Research Engineer (6.9yr); 6.0yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0008295,13,89.7160,"AI Research Engineer (6.5yr); 5.8yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Pune, Maharashtra)"
+CAND_0096142,14,89.5025,Applied ML Engineer (5.0yr); 4.9yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0064888,15,89.3300,ML Engineer (5.8yr); 4.6yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0041669,16,89.1103,"Recommendation Systems Engineer (8.0yr); 6.5yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh)"
+CAND_0027801,17,88.4738,NLP Engineer (7.4yr); 5.6yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0048558,18,88.4569,"Data Scientist (6.7yr); 5.4yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh); notice 30d"
+CAND_0050876,19,88.4170,Applied ML Engineer (6.0yr); 5.2yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0015967,20,88.2690,Senior Software Engineer (ML) (5.4yr); 5.0yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0053695,21,88.2572,Recommendation Systems Engineer (5.8yr); 5.0yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 15d
+CAND_0016163,22,88.0407,Applied ML Engineer (6.7yr); 5.6yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0053605,23,87.9797,"Senior Software Engineer (ML) (6.9yr); 5.6yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh); notice 30d"
+CAND_0069905,24,87.8589,Applied ML Engineer (6.6yr); 5.4yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0010685,25,87.8417,NLP Engineer (6.7yr); 5.2yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0078002,26,87.8175,Machine Learning Engineer (6.3yr); 5.3yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0000031,27,87.6085,Recommendation Systems Engineer (6.0yr); 4.8yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0071939,28,87.5775,"Data Scientist (6.4yr); 5.3yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Pune, Maharashtra); notice 30d"
+CAND_0069638,29,87.5560,Computer Vision Engineer (6.2yr); 5.3yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0008239,30,87.5361,AI Engineer (4.0yr); 4.6yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 15d
+CAND_0040178,31,87.5188,"ML Engineer (5.0yr); 4.6yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Pune, Maharashtra)"
+CAND_0043860,32,87.4292,Junior ML Engineer (6.1yr); 5.6yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0062247,33,87.3811,AI Engineer (7.3yr); 6.2yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0098846,34,87.1915,AI Engineer (7.6yr); 5.5yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0025640,35,86.7805,AI Research Engineer (5.6yr); 4.9yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0092255,36,86.7792,"ML Engineer (5.2yr); 4.5yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh)"
+CAND_0003841,37,86.7783,"ML Engineer (5.0yr); 4.9yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Pune, Maharashtra); notice 30d"
+CAND_0055905,38,86.7577,Senior Machine Learning Engineer (8.1yr); 4.5yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0030784,39,86.7434,Data Scientist (4.4yr); 4.6yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0017960,40,86.7308,Recommendation Systems Engineer (7.7yr); 6.3yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0093912,41,86.7071,Senior Data Scientist (5.3yr); 4.7yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0065878,42,86.6590,Senior Data Scientist (7.8yr); 5.6yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 15d
+CAND_0010770,43,86.6171,Recommendation Systems Engineer (15.2yr); 6.0yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0067866,44,86.5604,"Senior Software Engineer (ML) (6.4yr); 5.3yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh)"
+CAND_0004402,45,86.5034,AI Research Engineer (6.0yr); 5.4yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0066999,46,86.3132,Recommendation Systems Engineer (5.9yr); 5.5yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 15d
+CAND_0097176,47,86.2924,ML Engineer (5.9yr); 5.1yr applied ML; retrieval/embeddings expertise; notice 30d
+CAND_0081852,48,86.0422,Senior Data Scientist (5.9yr); 5.6yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0074486,49,85.9932,"Computer Vision Engineer (5.5yr); 5.0yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh); notice 30d"
+CAND_0073504,50,85.9387,Junior ML Engineer (6.6yr); 5.1yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0076163,51,85.7912,NLP Engineer (6.9yr); 6.0yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0028793,52,85.6593,Search Engineer (7.2yr); 5.8yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0054546,53,85.6317,"AI Research Engineer (4.9yr); 5.4yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Pune, Maharashtra)"
+CAND_0007412,54,85.5042,"Applied ML Engineer (7.4yr); 5.5yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh)"
+CAND_0043312,55,85.3888,"AI Research Engineer (4.2yr); 4.8yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh); notice 30d"
+CAND_0005311,56,85.1795,AI Research Engineer (5.7yr); 5.2yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0014234,57,85.1523,Junior ML Engineer (5.4yr); 4.7yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0081480,58,85.1251,"Computer Vision Engineer (5.6yr); 5.3yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh)"
+CAND_0037160,59,85.0005,Data Scientist (6.0yr); 5.1yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0073007,60,84.9577,AI Specialist (5.8yr); 5.5yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0046459,61,84.9312,"AI Research Engineer (4.5yr); 4.2yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Pune, Maharashtra); notice 30d"
+CAND_0017093,62,84.8870,ML Engineer (5.9yr); 5.0yr applied ML; retrieval/embeddings expertise; notice 30d
+CAND_0018888,63,84.8784,"AI Research Engineer (6.5yr); 5.3yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh); notice 30d"
+CAND_0039383,64,84.8467,Applied ML Engineer (7.1yr); 5.7yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0065430,65,84.8355,ML Engineer (4.4yr); 4.6yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0092568,66,84.8322,"AI Specialist (5.7yr); 4.8yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh)"
+CAND_0009691,67,84.7637,Applied ML Engineer (6.2yr); 5.2yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0007596,68,84.6187,Junior ML Engineer (4.4yr); 4.6yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0083852,69,84.5650,Data Scientist (6.0yr); 5.4yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0049540,70,84.5053,ML Engineer (6.8yr); 5.3yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0018094,71,84.2977,ML Engineer (5.2yr); 4.9yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0073982,72,84.2370,Data Scientist (7.0yr); 5.3yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0060054,73,84.1041,AI Engineer (6.4yr); 5.3yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 15d
+CAND_0046353,74,84.0829,ML Engineer (6.4yr); 5.3yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0073883,75,84.0496,AI Specialist (5.3yr); 4.7yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0082262,76,84.0078,Senior Software Engineer (ML) (5.9yr); 5.0yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0062561,77,83.8401,ML Engineer (5.9yr); 5.2yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0051936,78,83.8371,AI Research Engineer (3.9yr); 4.4yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0035879,79,83.8306,"AI Research Engineer (4.5yr); 4.5yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh)"
+CAND_0093763,80,83.8010,"Senior Software Engineer (ML) (5.0yr); 4.2yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh)"
+CAND_0015528,81,83.7911,Applied ML Engineer (7.4yr); 6.1yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0011263,82,83.6964,"ML Engineer (5.1yr); 4.6yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Pune, Maharashtra)"
+CAND_0071974,83,83.6281,Senior AI Engineer (7.8yr); 4.9yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0066791,84,83.6087,"Senior Software Engineer (ML) (5.6yr); 5.3yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Pune, Maharashtra)"
+CAND_0021410,85,83.5886,Junior ML Engineer (4.0yr); 4.4yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0058688,86,83.5493,AI Engineer (6.7yr); 5.9yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 15d
+CAND_0020350,87,83.3594,AI Engineer (5.8yr); 5.4yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0059017,88,83.2892,AI Research Engineer (6.8yr); 5.9yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0025882,89,83.2821,Senior Software Engineer (ML) (5.6yr); 4.9yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0076587,90,83.2317,AI Specialist (4.9yr); 4.8yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0080589,91,83.2184,Computer Vision Engineer (5.7yr); 5.3yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0018701,92,83.1010,Junior ML Engineer (6.0yr); 5.4yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0015057,93,83.0977,"ML Engineer (4.6yr); 4.6yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Pune, Maharashtra)"
+CAND_0046064,94,83.0230,Senior NLP Engineer (8.9yr); 3.8yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0073620,95,82.9720,"AI Research Engineer (4.4yr); 4.4yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Noida, Uttar Pradesh)"
+CAND_0065786,96,82.9396,AI Specialist (4.9yr); 4.2yr applied ML; retrieval/embeddings expertise; vector-DB experience
+CAND_0027723,97,82.9350,ML Engineer (4.2yr); 4.2yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0007052,98,82.8573,"ML Engineer (6.5yr); 5.7yr applied ML; retrieval/embeddings expertise; vector-DB experience; preferred location (Pune, Maharashtra)"
+CAND_0048219,99,82.8555,Computer Vision Engineer (5.4yr); 4.7yr applied ML; retrieval/embeddings expertise; vector-DB experience; notice 30d
+CAND_0016659,100,82.8465,ML Engineer (4.4yr); 4.5yr applied ML; retrieval/embeddings expertise; vector-DB experience
